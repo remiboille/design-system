@@ -1,0 +1,35 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --ds-color-brand-50: #eff6ff;
+  --ds-color-brand-100: #dbeafe;
+  --ds-color-brand-500: #3b82f6;
+  --ds-color-brand-600: #2563eb;
+  --ds-color-brand-900: #1e3a8a;
+  --ds-color-neutral-0: #ffffff;
+  --ds-color-neutral-100: #f5f5f5;
+  --ds-color-neutral-500: #737373;
+  --ds-color-neutral-900: #171717;
+  --ds-color-semantic-error: #3b82f6;
+  --ds-color-semantic-success: #22c55e;
+  --ds-spacing-1: 0.25rem;
+  --ds-spacing-2: 0.5rem;
+  --ds-spacing-3: 0.75rem;
+  --ds-spacing-4: 1rem;
+  --ds-spacing-6: 1.5rem;
+  --ds-spacing-8: 2rem;
+  --ds-spacing-12: 3rem;
+  --ds-spacing-16: 4rem;
+  --ds-font-family-sans: Inter, sans-serif;
+  --ds-font-family-mono: JetBrains Mono, monospace;
+  --ds-font-size-sm: 0.875rem;
+  --ds-font-size-base: 1rem;
+  --ds-font-size-lg: 1.125rem;
+  --ds-font-size-xl: 1.25rem;
+  --ds-font-size-2xl: 1.5rem;
+  --ds-font-weight-regular: 400;
+  --ds-font-weight-medium: 500;
+  --ds-font-weight-bold: 700;
+}

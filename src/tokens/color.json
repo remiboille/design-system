@@ -1,0 +1,21 @@
+{
+  "color": {
+    "brand": {
+      "50":  { "value": "#eff6ff" },
+      "100": { "value": "#dbeafe" },
+      "500": { "value": "#3b82f6" },
+      "600": { "value": "#2563eb" },
+      "900": { "value": "#1e3a8a" }
+    },
+    "neutral": {
+      "0":   { "value": "#ffffff" },
+      "100": { "value": "#f5f5f5" },
+      "500": { "value": "#737373" },
+      "900": { "value": "#171717" }
+    },
+    "semantic": {
+      "error":   { "value": "{color.brand.500}" },
+      "success": { "value": "#22c55e" }
+    }
+  }
+}
