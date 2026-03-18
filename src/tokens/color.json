@@ -13,6 +13,10 @@
       "500": { "value": "#737373" },
       "900": { "value": "#171717" }
     },
+    "surface": {
+      "cream": { "value": "#ebe1d3" },
+      "dark":  { "value": "#201817" }
+    },
     "semantic": {
       "error":   { "value": "{color.brand.500}" },
       "success": { "value": "#22c55e" }

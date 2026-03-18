@@ -1,0 +1,48 @@
+@import "tailwindcss";
+@import "./tokens.css";
+
+@source "../../src/**/*.{ts,tsx}";
+@source "../../.storybook/**/*.{ts,tsx}";
+
+@theme inline {
+  /* Colors — brand */
+  --color-brand-50:  var(--ds-color-brand-50);
+  --color-brand-100: var(--ds-color-brand-100);
+  --color-brand-500: var(--ds-color-brand-500);
+  --color-brand-600: var(--ds-color-brand-600);
+  --color-brand-900: var(--ds-color-brand-900);
+
+  /* Colors — neutral */
+  --color-neutral-0:   var(--ds-color-neutral-0);
+  --color-neutral-100: var(--ds-color-neutral-100);
+  --color-neutral-500: var(--ds-color-neutral-500);
+  --color-neutral-900: var(--ds-color-neutral-900);
+
+  /* Colors — surface */
+  --color-surface-cream: var(--ds-color-surface-cream);
+  --color-surface-dark:  var(--ds-color-surface-dark);
+
+  /* Typography */
+  --font-sans: var(--ds-font-family-sans);
+  --font-mono: var(--ds-font-family-mono);
+
+  --text-sm:   var(--ds-font-size-sm);
+  --text-base: var(--ds-font-size-base);
+  --text-lg:   var(--ds-font-size-lg);
+  --text-xl:   var(--ds-font-size-xl);
+  --text-2xl:  var(--ds-font-size-2xl);
+
+  --font-weight-regular: var(--ds-font-weight-regular);
+  --font-weight-medium:  var(--ds-font-weight-medium);
+  --font-weight-bold:    var(--ds-font-weight-bold);
+
+  /* Spacing */
+  --spacing-1:  var(--ds-spacing-1);
+  --spacing-2:  var(--ds-spacing-2);
+  --spacing-3:  var(--ds-spacing-3);
+  --spacing-4:  var(--ds-spacing-4);
+  --spacing-6:  var(--ds-spacing-6);
+  --spacing-8:  var(--ds-spacing-8);
+  --spacing-12: var(--ds-spacing-12);
+  --spacing-16: var(--ds-spacing-16);
+}

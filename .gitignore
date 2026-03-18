@@ -28,3 +28,9 @@ storybook-static
 
 # Claude Code local settings (may contain secrets)
 .claude/
+
+# Netlify local cache
+.netlify/
+
+# Storybook build output
+storybook-static/

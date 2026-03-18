@@ -19,6 +19,10 @@ export default {
           500: tokens.ColorNeutral500,
           900: tokens.ColorNeutral900,
         },
+        surface: {
+          cream: tokens.ColorSurfaceCream,
+          dark:  tokens.ColorSurfaceDark,
+        },
       },
       fontFamily: {
         sans: [tokens.FontFamilySans],

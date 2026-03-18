@@ -1,7 +1,7 @@
 {
   "font": {
     "family": {
-      "sans": { "value": "Inter, sans-serif" },
+      "sans": { "value": "Instrument Sans, Inter, sans-serif" },
       "mono": { "value": "JetBrains Mono, monospace" }
     },
     "size": {
